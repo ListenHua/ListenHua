@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 💙 I’m currently working on Guangxi Some unknown company
-- ❤️ I’m currently learning Flutter and Cocos2d
+- ❤️ I’m currently learning Nuxt3 and Electron
 - 🧡 I’m looking to collaborate on ...
 - 💛 I’m looking for help with study New technology
 - 💜 How to reach me: Email:xiaoliyuwork@163.com wechat:listenhua
